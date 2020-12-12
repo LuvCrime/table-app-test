@@ -1,0 +1,95 @@
+.main {
+    max-width: 800px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-width: 800px;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+}
+
+.sort {
+    padding-left: 10px;
+    text-align: center;
+    position: relative;
+}
+
+.sort:before {
+    content: '';
+    position: absolute;
+    top: -2px;
+    left: 3px;
+    height: 26px;
+    width: 24px;
+}
+
+.buttonAdd {
+    margin: 15px;
+    max-width: 80px;
+}
+
+.addUserForm {
+    display: flex;
+    flex-direction: row;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    min-width: inherit;
+}
+
+.arrows {
+    display: flex;
+    flex-direction: row;
+    min-width: inherit;
+    justify-content: space-between;
+}
+
+.svgLoader {
+    animation: spin 0.5s linear infinite;
+    margin: auto;
+  }
+  .divLoader {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+
+  .search {
+      max-width: inherit;
+      min-width: inherit;
+      margin-top: 10px;
+  }
+
+  .userDescription {
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    max-width: inherit;
+    min-height: 100px;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+
+  .userDescription > div {
+      margin-top: 10px;
+      text-align: start;
+  }
+
+  .pagination {
+      display: flex;
+      justify-content: center;
+  }
