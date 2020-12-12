@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/table-app/build/static/css/main.9cd31095.chunk.css",
-    "main.js": "/table-app/build/static/js/main.2eeed200.chunk.js",
-    "main.js.map": "/table-app/build/static/js/main.2eeed200.chunk.js.map",
-    "runtime-main.js": "/table-app/build/static/js/runtime-main.b8ee1341.js",
-    "runtime-main.js.map": "/table-app/build/static/js/runtime-main.b8ee1341.js.map",
-    "static/js/2.0319e150.chunk.js": "/table-app/build/static/js/2.0319e150.chunk.js",
-    "static/js/2.0319e150.chunk.js.map": "/table-app/build/static/js/2.0319e150.chunk.js.map",
-    "static/js/3.f1136f5d.chunk.js": "/table-app/build/static/js/3.f1136f5d.chunk.js",
-    "static/js/3.f1136f5d.chunk.js.map": "/table-app/build/static/js/3.f1136f5d.chunk.js.map",
-    "index.html": "/table-app/build/index.html",
-    "static/css/main.9cd31095.chunk.css.map": "/table-app/build/static/css/main.9cd31095.chunk.css.map",
-    "static/js/2.0319e150.chunk.js.LICENSE.txt": "/table-app/build/static/js/2.0319e150.chunk.js.LICENSE.txt"
+    "main.css": "/table-app-test/build/static/css/main.9cd31095.chunk.css",
+    "main.js": "/table-app-test/build/static/js/main.2eeed200.chunk.js",
+    "main.js.map": "/table-app-test/build/static/js/main.2eeed200.chunk.js.map",
+    "runtime-main.js": "/table-app-test/build/static/js/runtime-main.32c60835.js",
+    "runtime-main.js.map": "/table-app-test/build/static/js/runtime-main.32c60835.js.map",
+    "static/js/2.0319e150.chunk.js": "/table-app-test/build/static/js/2.0319e150.chunk.js",
+    "static/js/2.0319e150.chunk.js.map": "/table-app-test/build/static/js/2.0319e150.chunk.js.map",
+    "static/js/3.f1136f5d.chunk.js": "/table-app-test/build/static/js/3.f1136f5d.chunk.js",
+    "static/js/3.f1136f5d.chunk.js.map": "/table-app-test/build/static/js/3.f1136f5d.chunk.js.map",
+    "index.html": "/table-app-test/build/index.html",
+    "static/css/main.9cd31095.chunk.css.map": "/table-app-test/build/static/css/main.9cd31095.chunk.css.map",
+    "static/js/2.0319e150.chunk.js.LICENSE.txt": "/table-app-test/build/static/js/2.0319e150.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b8ee1341.js",
+    "static/js/runtime-main.32c60835.js",
     "static/js/2.0319e150.chunk.js",
     "static/css/main.9cd31095.chunk.css",
     "static/js/main.2eeed200.chunk.js"
